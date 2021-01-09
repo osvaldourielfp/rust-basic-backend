@@ -1,5 +1,5 @@
 [package]
-name = "servidorRust"
+name = "servidor_rust"
 version = "0.1.0"
 authors = ["osval"]
 edition = "2018"
